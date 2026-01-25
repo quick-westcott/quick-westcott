@@ -1,3 +1,3 @@
 # quick-westcott
 
-Building on Solana.
+Solana dev. TypeScript, React.
