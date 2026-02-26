@@ -3,7 +3,7 @@
 Solana dev. TypeScript, React, pump.fun tooling.
 
 ### Pinned
-- Working on a Jito bundle launcher for pump.fun
+- **pumpfun-solana-bundler-frontend-dashboard** — Jito bundle launcher for pump.fun with Token-2022
 
 ### Stack
-`Solana` `TypeScript` `React` `Jito`
+`Solana` `TypeScript` `React` `Jito` `Token-2022`
