@@ -4,7 +4,7 @@
 
 ### What I build
 
-- **[pumpfun-solana-bundler-frontend-dashboard-FIXED-JITO](https://github.com/quick-westcott/pumpfun-solana-bundler-frontend-dashboard-FIXED-JITO)** — Fork of [TrenchyDev's](https://github.com/TrenchyDev) pump.fun launcher with fixed Jito bundling delay (instant launches), IPFS retry, and auto-fund for sells.
+- **[pumpfun-solana-bundler-frontend-dashboard-FIXED-JITO](https://github.com/quick-westcott/pumpfun-solana-bundler-frontend-dashboard-FIXED-JITO)** — Fork of ['s](https://github.com/) pump.fun launcher with fixed Jito bundling delay (instant launches), IPFS retry, and auto-fund for sells.
 
 ### Stack
 
