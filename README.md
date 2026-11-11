@@ -1,19 +1,10 @@
-# Hi, I'm quick-westcott
+### hey, i'm Marcus
 
-**Solana & pump.fun tooling** — bundlers, launch automation, and frontend dashboards.
+Denver, CO. i build **solana tooling** - bundlers, launch automation, and the dashboards around them. mostly rust + typescript.
 
-### What I build
+- **[solana-pumpfun-bundler-dashboard](https://github.com/quick-westcott/solana-pumpfun-bundler-dashboard)** - pump.fun launcher: jito bundles, instant launches, ipfs retry
+- **[sol-feed-lab](https://github.com/quick-westcott/sol-feed-lab)** - rpc latency + feed experiments
+- **[tg-alert-bot](https://github.com/quick-westcott/tg-alert-bot)** - onchain events to telegram
+- **[data-pipelines](https://github.com/quick-westcott/data-pipelines)** - scrapers and etl bits
 
-- **[pumpfun-solana-bundler-frontend-dashboard-FIXED-JITO](https://github.com/quick-westcott/pumpfun-solana-bundler-frontend-dashboard-FIXED-JITO)** — Fork of ['s](https://github.com/) pump.fun launcher with fixed Jito bundling delay (instant launches), IPFS retry, and auto-fund for sells.
-
-### Stack
-
-`Solana` `TypeScript` `React` `Jito` `pump.fun` `Token-2022`
-
-### Links
-
-- [pumpfun-solana-bundler-frontend-dashboard-FIXED-JITO](https://github.com/quick-westcott/pumpfun-solana-bundler-frontend-dashboard-FIXED-JITO) — main project (fixed Jito delays)
-
----
-
-*Building in the open.*
+open to work.
