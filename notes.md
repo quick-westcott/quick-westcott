@@ -5,3 +5,4 @@
 - 2026-11-13 · fix a typo
 - 2026-11-14 · ponytail the funding flow
 - 2026-11-15 · small fixes
+- 2026-11-16 · ponytail the funding flow
