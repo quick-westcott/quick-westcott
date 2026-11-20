@@ -8,3 +8,4 @@
 - 2026-11-16 · ponytail the funding flow
 - 2026-11-17 · ponytail the funding flow
 - 2026-11-18 · log the day
+- 2026-11-19 · sketch the next tool
