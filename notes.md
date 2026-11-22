@@ -10,3 +10,4 @@
 - 2026-11-18 · log the day
 - 2026-11-19 · sketch the next tool
 - 2026-11-20 · cache the pair list
+- 2026-11-21 · read the pump.fun docs
