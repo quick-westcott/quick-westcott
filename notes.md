@@ -11,3 +11,4 @@
 - 2026-11-19 · sketch the next tool
 - 2026-11-20 · cache the pair list
 - 2026-11-21 · read the pump.fun docs
+- 2026-11-22 · sketch the next tool
