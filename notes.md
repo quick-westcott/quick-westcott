@@ -14,3 +14,4 @@
 - 2026-11-22 · sketch the next tool
 - 2026-11-23 · sketch the next tool
 - 2026-11-24 · bump deps
+- 2026-11-25 · bump deps
