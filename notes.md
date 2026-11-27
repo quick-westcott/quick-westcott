@@ -16,3 +16,4 @@
 - 2026-11-24 · bump deps
 - 2026-11-25 · bump deps
 - 2026-11-26 · api returned 429, added backoff
+- 2026-11-27 · read the pump.fun docs
